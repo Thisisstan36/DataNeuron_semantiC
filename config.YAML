@@ -1,0 +1,2 @@
+model_path: siamese_attention_model.h5
+tokenizer_path: tokenizer.pkl
